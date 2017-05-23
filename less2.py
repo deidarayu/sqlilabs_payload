@@ -75,7 +75,7 @@ def gettablenum():
 def run():
     dbNum = findDatabaseNumber()
     tabnum = gettablenum()
-    print "the number of tables is" + str(dbNum)
+    print "the number of tables is " + str(tabnum)
     """
     猜表名同理可得
     """
